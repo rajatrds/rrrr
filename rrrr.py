@@ -1,4 +1,4 @@
-fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
+hufbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
 try:
 	import os,requests,json,time,re,random,sys,uuid,string,subprocess
@@ -681,9 +681,8 @@ def ZEESHU4(ids,passlist):
     'sec-fetch-user': '?1',
     'upgrade-insecure-requests': '1',
     'user-agent': 'Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 920)',
-    'viewport-width': '980',
-}
-                     }zation':f'OAuth {accessToken}',
+    'viewport-width': '980}
+                                 }zation':f'OAuth {accessToken}',
                                 'X-FB-Friendly-Name':'authenticate',
                                 'X-FB-Connection-Type':'unknown',
                                 'User-Agent': ua,
